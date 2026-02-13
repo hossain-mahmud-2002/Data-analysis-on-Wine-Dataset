@@ -47,9 +47,3 @@ To ensure the models were reliable and not just "lucky," I evaluated them using:
 
 ---
 
-## 🛠️ Installation & Usage
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/hossain-2002/Wine-Quality-Classification-ML.git](https://github.com/hossain-2002/Wine-Quality-Classification-ML.git)
